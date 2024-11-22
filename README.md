@@ -6,7 +6,11 @@
 
 This Macropad is designed to enhance your productivity on MacOS by providing tactile controls for native functionalities. Adjust volume and brightness, launch your favorite apps, open Finder, and more with this customizable macropad. It integrates seamlessly with Karabiner to map key bindings.
 
-🎬 **Watch the full build video on YouTube**: [Watch Now](https://www.youtube.com/watch?v=3BqDWCWQ3Qs)
+## Watch the Build Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3BqDWCWQ3Qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+If the video doesn't load, [click here to watch it on YouTube](https://www.youtube.com/watch?v=3BqDWCWQ3Qs).
 
 ## Features
 
